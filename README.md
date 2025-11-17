@@ -4,11 +4,11 @@ supporting files to run experience mockups in LA office. This repo contains the 
 PRE-SHOW
 
 SOFTWARE YOU NEED:
-Oculus LINK
-OBS Studio
-touchdesigner
-zoom
-Oculusmirror.exe
+Oculus LINK,
+OBS Studio,
+touchdesigner,
+zoom,
+Oculusmirror.exe,
 TouchOSC
 
 
